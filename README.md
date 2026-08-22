@@ -1,4 +1,4 @@
-## scaffold
+## scaffold - 루비온레일즈 프로젝트를 시작할 때 폴더 구조나 기본 코드 등 기초 뼈대를 자동으로 만들어주는 기능
 
 ```bash
 rails generate scaffold Post title:string content:text
